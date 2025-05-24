@@ -40,6 +40,7 @@ Auth-Page-main/
 ├── tailwind.config.js
 ├── vite.config.ts
 └── package.json
+
 ## 🚀 Live Demo
 
 Check out the live version here: [Live Demo](https://auth-page-git-main-vanditha-pradeeps-projects.vercel.app/)
@@ -58,8 +59,9 @@ To run this project locally:
 5. Make sure MongoDB is running and environment variables are set.
 6.  Setup and Run the Backend
    ```bash
-cd server
-npm install
-node index.js
+   cd server
+   npm install
+   node index.js
+
 
 
