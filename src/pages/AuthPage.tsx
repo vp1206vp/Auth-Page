@@ -82,7 +82,7 @@ const AuthPage: React.FC = () => {
               <path d="M9 22V12H15V22" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
             </svg>
           </div>
-          <h1 className="text-3xl font-bold text-white">Project<span className="text-indigo-400">Hub</span></h1>
+          <h1 className="text-3xl font-bold text-white">Welcome To Project<span className="text-indigo-400">Hub</span></h1>
           <p className="text-white text-opacity-80 mt-1">Manage your projects with ease</p>
         </motion.div>
 
@@ -125,7 +125,6 @@ const AuthPage: React.FC = () => {
           className="text-center text-white text-opacity-70 text-sm mt-8"
           variants={itemVariants}
         >
-          © 2025 ProjectHub. All rights reserved.
         </motion.p>
       </motion.div>
     </div>
